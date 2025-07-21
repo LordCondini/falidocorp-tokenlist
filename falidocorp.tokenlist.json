@@ -1,0 +1,21 @@
+{
+  "name": "FalidoCorp Token List",
+  "logoURI": "https://i.ibb.co/dwhYDHvc/00001.jpg",
+  "keywords": ["falidocorp", "corp", "token", "memecoin"],
+  "tokens": [
+    {
+      "chainId": 1111,
+      "address": "0x489ab31e45444d375e38f1e1f25e110b60b901b8",
+      "name": "FalidoCorpCoin",
+      "symbol": "CORP",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/dwhYDHvc/00001.jpg"
+    }
+  ],
+  "timestamp": "2025-07-21T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
